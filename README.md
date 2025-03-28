@@ -8,8 +8,8 @@ This is an updated version of [Gimkit Flooder](https://github.com/seanv999/gimki
 
 1. Download [node.js](https://nodejs.org/en/download/)
 2. Download [git](https://git-scm.com/downloads)
-3. Open a terminal and run `git clone https://github.com/TheLazySquid/GimkitSpawner.git`
-4. Run `cd GimkitSpawner`
+3. Open a terminal and run `git clone https://github.com/empxthetics/Floodia.git`
+4. Run `cd Floodia`
 5. Run `npm install`
 6. Run `node cli.js <room code> [number of bots] [bot name]`, ex. `node cli.js 123456 10 bot` or just `node cli.js 123456` for five bots named 'bot'
 
